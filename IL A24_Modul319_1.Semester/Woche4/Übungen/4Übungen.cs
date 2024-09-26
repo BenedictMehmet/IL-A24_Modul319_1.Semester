@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
-namespace IL_A24_Modul319_1.Semester.Woche4.Übungen
+/*namespace IL_A24_Modul319_1.Semester.Woche4.Übungen
 {
     internal class _4Übungen
     {
@@ -53,7 +49,7 @@ namespace IL_A24_Modul319_1.Semester.Woche4.Übungen
   - Erstelle im Main eine Instanz der Klasse `Spieler` und gib die Spielerinformationen auf der Konsole aus.
   */
 
-Weitere Übungen für Schüler/innen die oben fertig sind!
+//Weitere Übungen für Schüler/innen die oben fertig sind!
         /*
         Übung 1: Rechteck
         - Erstelle eine Klasse namens `Rechteck`.
@@ -107,9 +103,4 @@ Weitere Übungen für Schüler/innen die oben fertig sind!
             - Verwende die Formel: Reichweite = (AktuellerTankstand / VerbrauchPro100Km) * 100
         - Erstelle im Main eine Instanz der Klasse `Fahrzeug` und gib die Reichweite auf der Konsole aus.
         */
-    }
-}
 
-
-    }
-}

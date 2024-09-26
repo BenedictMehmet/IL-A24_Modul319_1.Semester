@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>IL_A24_Modul319_1.Semester.Woche4.Übungen.Lösungen.Spieler</StartupObject>
+    <StartupObject>IL_A24_Modul319_1.Semester.Woche6.Übungen.Lösungen.Lösung1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -56,6 +56,15 @@
     <Compile Include="Woche4\Übungen\Lösungen\Produkt.cs" />
     <Compile Include="Woche4\Übungen\Lösungen\Schüler.cs" />
     <Compile Include="Woche4\Übungen\Lösungen\Spieler.cs" />
+    <Compile Include="Woche6\Wiederholungen\1. Wiederholung.cs" />
+    <Compile Include="Woche6\Wiederholungen\2. Wiederholung.cs" />
+    <Compile Include="Woche6\Wiederholungen\3. Wiederholung.cs" />
+    <Compile Include="Woche6\Wiederholungen\4. Wiederholung.cs" />
+    <Compile Include="Woche6\Übungen\Lösungen\Lösung1.cs" />
+    <Compile Include="Woche6\Übungen\Lösungen\Lösung2.cs" />
+    <Compile Include="Woche6\Übungen\Lösungen\Lösung3.cs" />
+    <Compile Include="Woche6\Übungen\Lösungen\Lösung4.cs" />
+    <Compile Include="Woche6\Übungen\Übungen.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
