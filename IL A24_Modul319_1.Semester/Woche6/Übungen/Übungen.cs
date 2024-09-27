@@ -28,5 +28,20 @@ namespace IL_A24_Modul319_1.Semester.Woche6.Übungen
         // es sei denn, sie sind auch durch 400 teilbar.
         // Wenn es ein Schaltjahr ist, gib "Schaltjahr" aus.
         // Andernfalls gib "Kein Schaltjahr" aus.
+
+        // Übung5: Überprüfe, ob ein eingegebenes Wort ein Palindrom ist.
+        // Ein Palindrom ist ein Wort, das vorwärts und rückwärts gleich ist (z.B. "Otto").
+        // Ignoriere Groß- und Kleinschreibung. Gib "Das Wort ist ein Palindrom" aus, falls zutreffend.
+        // Andernfalls gib "Das Wort ist kein Palindrom" aus.
+
+        // Übung6: Implementiere eine Funktion, die überprüft, ob eine Zahl eine Primzahl ist.
+        // Eine Primzahl ist eine Zahl, die nur durch 1 und sich selbst teilbar ist.
+        // Gib "Primzahl" aus, wenn die Zahl eine Primzahl ist.
+        // Andernfalls gib "Keine Primzahl" aus.
+
+        // Übung7: Schreibe ein Programm, das die Fakultät einer eingegebenen Zahl berechnet.
+        // Die Fakultät einer Zahl n (n!) ist das Produkt aller positiven ganzen Zahlen bis n.
+        // Berechne die Fakultät und gib das Ergebnis aus.
+        // Beispiel: Für die Eingabe 5 sollte das Ergebnis 120 (5*4*3*2*1) sein.
     }
 }
