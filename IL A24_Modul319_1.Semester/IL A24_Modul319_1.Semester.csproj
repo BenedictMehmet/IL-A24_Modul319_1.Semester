@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>IL_A24_Modul319_1.Semester.Woche6.Übungen.Lösungen.Lösung1</StartupObject>
+    <StartupObject>IL_A24_Modul319_1.Semester.Woche7.Lösung2.Lösung2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -65,6 +65,20 @@
     <Compile Include="Woche6\Übungen\Lösungen\Lösung3.cs" />
     <Compile Include="Woche6\Übungen\Lösungen\Lösung4.cs" />
     <Compile Include="Woche6\Übungen\Übungen.cs" />
+    <Compile Include="Woche7\Wiederholungen\Wiederholung1.cs" />
+    <Compile Include="Woche7\Wiederholungen\Wiederholung1neu.cs" />
+    <Compile Include="Woche7\Wiederholungen\Wiederholung2.cs" />
+    <Compile Include="Woche7\Wiederholungen\Wiederholung2neu.cs" />
+    <Compile Include="Woche7\Wiederholungen\Wiederholung3Switch.cs" />
+    <Compile Include="Woche7\Wiederholungen\Wiederholung4Switch.cs" />
+    <Compile Include="Woche7\Übungen\Lösungen\Lösung1.cs" />
+    <Compile Include="Woche7\Übungen\Lösungen\Lösung2.cs" />
+    <Compile Include="Woche7\Übungen\Lösungen\Lösung3Switch.cs" />
+    <Compile Include="Woche7\Übungen\Lösungen\Lösung4Switch.cs" />
+    <Compile Include="Woche7\Übungen\Übung1.cs" />
+    <Compile Include="Woche7\Übungen\Übung2.cs" />
+    <Compile Include="Woche7\Übungen\Übung3Switch.cs" />
+    <Compile Include="Woche7\Übungen\Übung4Switch.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
