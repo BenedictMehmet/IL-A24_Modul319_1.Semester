@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>IL_A24_Modul319_1.Semester.Woche8.Übungen.Lösungen.Lösung4</StartupObject>
+    <StartupObject>IL_A24_Modul319_1.Semester.Woche8.Wiederholungen.DoWhileSwitchBeispiel</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
