@@ -57,7 +57,7 @@ Bonus: Lassen Sie den Benutzer auswählen, ob er eine Aufgabe als "erledigt" mar
         /*
 Übung 7:
 Schreiben Sie ein Programm, das den Benutzer auffordert, einen Satz einzugeben.
-Überprüfen Sie, ob der Satz ein Palindrom ist (d.h., ob er vorwärts und rückwärts gelesen gleich ist), ohne Leerzeichen und Groß-/Kleinschreibung zu berücksichtigen.
+Überprüfen Sie, ob der Satz ein Palindrom ist (d.h., ob er vorwärts und rückwärts gelesen gleich ist), ohne Leerzeichen und Gross-/Kleinschreibung zu berücksichtigen.
 Verwenden Sie eine do-while-Schleife, um den Benutzer zur Eingabe aufzufordern, bis er einen Satz eingibt, der mindestens 10 Zeichen lang ist.
 Geben Sie dann aus, ob der Satz ein Palindrom ist oder nicht.
 */

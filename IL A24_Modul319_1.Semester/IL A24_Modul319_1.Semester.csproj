@@ -88,6 +88,16 @@
     <Compile Include="Woche8\Übungen\Lösungen\Lösung3.cs" />
     <Compile Include="Woche8\Übungen\Lösungen\Lösung4.cs" />
     <Compile Include="Woche8\Übungen\Übungen.cs" />
+    <Compile Include="Woche9\Wiederholungen\Wiederholung1.cs" />
+    <Compile Include="Woche9\Wiederholungen\Wiederholung2.cs" />
+    <Compile Include="Woche9\Wiederholungen\Wiederholung3.cs" />
+    <Compile Include="Woche9\Wiederholungen\Wiederholung4.cs" />
+    <Compile Include="Woche9\Wiederholungen\Wiederholung5.cs" />
+    <Compile Include="Woche9\Übungen\Lösungen\Lösung1.cs" />
+    <Compile Include="Woche9\Übungen\Lösungen\Lösung2.cs" />
+    <Compile Include="Woche9\Übungen\Lösungen\Lösung3.cs" />
+    <Compile Include="Woche9\Übungen\Lösungen\Lösung4.cs" />
+    <Compile Include="Woche9\Übungen\Übungen.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
