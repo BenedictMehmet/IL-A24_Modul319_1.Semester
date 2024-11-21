@@ -23,7 +23,7 @@ namespace IL_A24_Modul319_1.Semester.Woche9.Wiederholungen
             // Ausgabe der Endwerte
             Console.WriteLine($"i = {i}");
             Console.WriteLine($"j = {j}");
-            Console.WriteLine($"k = {k}");
+            Console.WriteLine($"k = {k,j }");
         }
 
     }
