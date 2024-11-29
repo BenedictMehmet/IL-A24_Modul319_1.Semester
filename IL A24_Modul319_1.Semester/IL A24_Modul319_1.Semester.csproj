@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>IL_A24_Modul319_1.Semester.Woche8.Wiederholungen.DoWhileSwitchBeispiel</StartupObject>
+    <StartupObject>IL_A24_Modul319_1.Semester.Woche6.Wiederholungen._1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Woche10\GotoExample1.cs" />
+    <Compile Include="Woche10\GotoExample2.cs" />
+    <Compile Include="Woche10\LoopControlExamples.cs" />
+    <Compile Include="Woche10\NumberProcessor.cs" />
+    <Compile Include="Woche10\Übung\Übungen.cs" />
     <Compile Include="Woche4\Wiederholungen\Auto.cs" />
     <Compile Include="Woche4\Wiederholungen\Buch.cs" />
     <Compile Include="Woche4\Wiederholungen\Laptop.cs" />
