@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 namespace IL_A24_Modul319_1.Semester.Woche11.Wiederholungen
 {
     // Klasse, die ein Bankkonto repräsentiert
-    class Bankkonto
+    class PrivateBankkonto
     {
         // Private Variable, die den Kontostand speichert
         private decimal kontostand;
 
         // Konstruktor: Initialisiert das Bankkonto mit einem Anfangsguthaben
-        public Bankkonto(decimal startguthaben)
+        public PrivateBankkonto(decimal startguthaben)
         {
             kontostand = startguthaben; // Zugriff auf die private Variable innerhalb der Klasse
         }
@@ -59,7 +59,7 @@ namespace IL_A24_Modul319_1.Semester.Woche11.Wiederholungen
         static void Main(string[] args)
         {
             // Ein neues Bankkonto mit einem Anfangsguthaben von 1000 Euro erstellen
-            Bankkonto konto = new Bankkonto(1000);
+            PrivateBankkonto konto = new PrivateBankkonto(1000);
 
             // Kontostand abfragen
             Console.WriteLine($"Aktueller Kontostand: {konto.KontostandAbfragen():C}");
