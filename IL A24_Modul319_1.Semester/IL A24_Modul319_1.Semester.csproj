@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>IL_A24_Modul319_1.Semester.Woche6.Wiederholungen._1</StartupObject>
+    <StartupObject>IL_A24_Modul319_1.Semester.Woche11.Wiederholungen.protectedInternalProgramm</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -52,6 +52,11 @@
     <Compile Include="Woche10\LoopControlExamples.cs" />
     <Compile Include="Woche10\NumberProcessor.cs" />
     <Compile Include="Woche10\Übung\Übungen.cs" />
+    <Compile Include="Woche11\Wiederholungen\internalExample.cs" />
+    <Compile Include="Woche11\Wiederholungen\PrivateBankkonto.cs" />
+    <Compile Include="Woche11\Wiederholungen\PrivateExample.cs" />
+    <Compile Include="Woche11\Wiederholungen\protectedExample.cs" />
+    <Compile Include="Woche11\Wiederholungen\protectedInternalExample.cs" />
     <Compile Include="Woche4\Wiederholungen\Auto.cs" />
     <Compile Include="Woche4\Wiederholungen\Buch.cs" />
     <Compile Include="Woche4\Wiederholungen\Laptop.cs" />
