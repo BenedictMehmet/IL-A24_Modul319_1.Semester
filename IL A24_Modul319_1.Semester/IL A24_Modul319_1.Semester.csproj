@@ -46,6 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="KW02_25\internal class methodenParameter2.cs" />
+    <Compile Include="KW02_25\methodenBeispiel1.cs" />
+    <Compile Include="KW02_25\methodenBeispiel2.cs" />
+    <Compile Include="KW02_25\methodenBeispiel3.cs" />
+    <Compile Include="KW02_25\methodenParameter1.cs" />
+    <Compile Include="KW02_25\Übungen\Lösungen\Lösung1.cs" />
+    <Compile Include="KW02_25\Übungen\Lösungen\Lösung2.cs" />
+    <Compile Include="KW02_25\Übungen\Lösungen\Lösung3.cs" />
+    <Compile Include="KW02_25\Übungen\Lösungen\Lösung4.cs" />
+    <Compile Include="KW02_25\Übungen\Übungen.cs" />
     <Compile Include="KW51\animalProgram.cs" />
     <Compile Include="KW51\phoneProgram.cs" />
     <Compile Include="KW51\staticProgram.cs" />
